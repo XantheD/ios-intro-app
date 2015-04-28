@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30706769-1D07-44D7-BD90-A580B98E8462</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7CA7C00D1F0079952BA5A750546F2A4B6639C69B</key>
+		<string>https://github.com/XantheD/ios-intro-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDoList/ToDoList.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7CA7C00D1F0079952BA5A750546F2A4B6639C69B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/XantheD/ios-intro-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7CA7C00D1F0079952BA5A750546F2A4B6639C69B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7CA7C00D1F0079952BA5A750546F2A4B6639C69B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-intro-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
